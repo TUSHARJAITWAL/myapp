@@ -1,0 +1,9 @@
+.nav-link:hover {
+    background-color: aquamarine;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-right: 0px;
+    border-radius: 15px;
+    border: 1px solid aquamarine;
+    margin-left: 4px;
+}
